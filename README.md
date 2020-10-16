@@ -5,6 +5,9 @@
 
 ### General
  0. [Git Basics](#Git_and_GitHub)
+ 1. [Linux CLI and Networking](#Linux_Command_Line_HTTP_Tools)
+ 2. [Git Collaboration](#GitHub_and_collaboration)
+
  ***
  
 ## <a name="Git_and_GitHub">Git and GitHub</a>
@@ -37,4 +40,32 @@ improved understanding:
 
 ![Screenshoot "Learn Git branching - complited"](/task-git-intro/learn_git_branching_base.png "Learn Git branching - complited")
 ***               
+## <a name="Linux_Command_Line_HTTP_Tools">Linux, Command Line, HTTP</a>
+### Linux survival
+#### Command_Line
+* `ls` - list the contents of a directory
+  * `ls -l` - long list 
+* `cd` - change directory
+* `pwd` - print working directory
+* `mkdir` - create directory 
+* `cp` - copy file
+* `mv` - move and rename file
+* `rm` - remove file
+* `rmdir` - remove directory
+* `groups` - group users
+* `chmod ugo+rwx file name` - change mode
+
+![Screenshoot "Linux survival quiz nubmer 1 - complited"](/task-linux-cli/quiz_number_1.png "Linux survival quiz nubmer 1")
+![Screenshoot "Linux survival quiz nubmer 2 - complited"](/task-linux-cli/quiz_number_2.png "Linux survival quiz nubmer 2")
+![Screenshoot "Linux survival quiz nubmer 3 - complited"](/task-linux-cli/quiz_number_3.png "Linux survival quiz nubmer 4")
+![Screenshoot "Linux survival quiz nubmer 4 - complited"](/task-linux-cli/quiz_number_4.png "Linux survival quiz nubmer 4")
+
+### HTTP
+
+![http url structure](/task-linux-cli/http1-url-structure.png "http url structure")
+
+* GET: fetch an existing resource.
+* POST: create a new resource. 
+* PUT: update an existing resource.
+* DELETE: delete an existing resource.
 
