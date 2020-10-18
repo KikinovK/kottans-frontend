@@ -72,7 +72,7 @@ Did not saw command `touch`(create file) in the course
 * PUT: update an existing resource.
 * DELETE: delete an existing resource.
 
-## <a name="Git_Collaboration">GitHub Collaboration</a>
+## <a name="GitHub_and_collaboration">GitHub Collaboration</a>
 ### GitHub & Collaboration
 Learned to create remote repositories 
 
@@ -103,3 +103,4 @@ _fork_ a remote repo in GitHub -> local `git clone <name forked repo>`-> `git ch
 ![Screenshoot "Learn Git branching  main - complited"](/task-git-collaboration/learn_git_branching_base.png "Learn Git branching main - complited")
 
 ![Screenshoot "Learn Git branching  remote - complited"](/task-git-collaboration/learn_git_branching_remote.png "Learn Git branching remote - complited")
+
