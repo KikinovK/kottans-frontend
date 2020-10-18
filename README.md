@@ -39,7 +39,7 @@ was improved understanding:
 
 
 ![Screenshoot "Learn Git branching - complited"](/task-git-intro/learn_git_branching_base.png "Learn Git branching - complited")
-![Screenshoot "Learn Git branching  remote - complited"](/task-git-collaboration/task-git-intro.png "Learn Git branching remote - complited")
+![Screenshoot "Learn Git branching  remote - complited"](/task-git-intro/learn_git_branching_remote.png "Learn Git branching remote - complited")
 ***               
 ## <a name="Linux_Command_Line_HTTP_Tools">Linux, Command Line, HTTP</a>
 ### Linux survival
