@@ -7,6 +7,8 @@
  0. [Git Basics](#Git_and_GitHub)
  1. [Linux CLI and Networking](#Linux_Command_Line_HTTP_Tools)
  2. [Git Collaboration](#GitHub_and_collaboration)
+### Front-End Basics
+3. [Intro to HTML & CSS](#Intro_to_HTML_and_CSS)
 
  ***
  
@@ -103,4 +105,5 @@ _fork_ a remote repo in GitHub -> local `git clone <name forked repo>`-> `git ch
 ![Screenshoot "Learn Git branching  main - complited"](/task-git-collaboration/learn_git_branching_base.png "Learn Git branching main - complited")
 
 ![Screenshoot "Learn Git branching  remote - complited"](/task-git-collaboration/learn_git_branching_remote.png "Learn Git branching remote - complited")
-
+***
+## <a name="Intro_to_HTML_and_CSS">Intro to HTML and CSS</a>
