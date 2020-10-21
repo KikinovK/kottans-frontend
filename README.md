@@ -107,3 +107,16 @@ _fork_ a remote repo in GitHub -> local `git clone <name forked repo>`-> `git ch
 ![Screenshoot "Learn Git branching  remote - complited"](/task-git-collaboration/learn_git_branching_remote.png "Learn Git branching remote - complited")
 ***
 ## <a name="Intro_to_HTML_and_CSS">Intro to HTML and CSS</a>
+I am already somewhat familiar with HTML and CSS
+### Intro to HTML & CSS (udacity.com)
+![Screenshoot "Intro to HTML & CSS (udacity.com)"](/task_html_css_intro/Intro_to_HTML_and_CSS.png "Intro to HTML & CSS (udacity.com)")
+
+### Learn HTML(codecademy.com)
+in this course I learned a new tag:
+`<datalist>`
+![Screenshoot "Learn HTML(codecademy.com) - complited"](/task_html_css_intro/Learn_HTML_complete.png "Learn HTML(codecademy.com) - complited")
+### Learn CSS(codecademy.com)
+Discovered new properties
+`word-spacing`,`letter-spacing`.
+_CSS Grid_ was interesting to study, I want to use it in future projects.
+![Screenshoot "Learn CSS(codecademy.com) - complited"](/task_html_css_intro/Learn_СSS_complete.png "Learn CSS(codecademy.com) - complited")
