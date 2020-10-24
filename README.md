@@ -9,6 +9,7 @@
  2. [Git Collaboration](#GitHub_and_collaboration)
 ### Front-End Basics
 3. [Intro to HTML & CSS](#Intro_to_HTML_and_CSS)
+4. [Responsive Web Design](#html_css_responsive)
 
  ***
  
@@ -120,3 +121,16 @@ Discovered new properties
 `word-spacing`,`letter-spacing`.
 _CSS Grid_ was interesting to study, I want to use it in future projects.
 ![Screenshoot "Learn CSS(codecademy.com) - complited"](/task_html_css_intro/Learn_СSS_complete.png "Learn CSS(codecademy.com) - complited")
+
+***
+## <a name="#html_css_responsive">Responsive Web Design</a>
+### Responsive Web Design Fundamentals
+what was new to me:
+* media requests can be connected to HTML file -`<link rel="stylesheet" media="screen and (min-width:500px)" href="over500.css">`
+* _Respansive patterns_ - it was very interesting.
+
+![Screenshoot "Responsive Web Design Fundamentals - complited"](/task_responsive_web_design/Responsive_Web_Design_Fundamentals.png "Responsive Web Design Fundamentals - complited")
+
+### Flexbox froggy
+
+![Screenshoot "Flexbox froggy - complited"](/task_responsive_web_design/Flexbox_froggy.png "Flexbox froggy - complited")
