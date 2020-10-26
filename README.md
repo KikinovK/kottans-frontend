@@ -10,7 +10,8 @@
 ### Front-End Basics
 3. [Intro to HTML & CSS](#Intro_to_HTML_and_CSS)
 4. [Responsive Web Design](#html_css_responsive)
-
+5. [HTML & CSS practice](HTML_and_CSS_practice)
+6. [JavaScript_Basics](JavaScript_Basics)
  ***
  
 ## <a name="Git_and_GitHub">Git and GitHub</a>
@@ -134,3 +135,13 @@ what was new to me:
 ### Flexbox froggy
 
 ![Screenshoot "Flexbox froggy - complited"](/task_responsive_web_design/Flexbox_froggy.png "Flexbox froggy - complited")
+
+***
+## <a name="#HTML_and_CSS_practice">HTML & CSS practice: Hooli-style Popup</a>
+
+[Demo](https://kikinovk.github.io/frontend-2021-homeworks/submissions/kikinovk/HTML_CSS_Popup/) |
+[Code base](https://github.com/KikinovK/frontend-2021-homeworks/tree/html-css-popup-task/submissions/kikinovk/HTML_CSS_Popup)
+
+***
+## <a name="#JavaScript_Basics">JavaScript Basics</a>
+### Intro to JS
