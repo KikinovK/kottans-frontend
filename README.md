@@ -145,3 +145,10 @@ what was new to me:
 ***
 ## <a name="JavaScript_Basics">JavaScript Basics</a>
 ### Intro to JS
+It was helpful for me to update my basic knowledge of JS.
+ new to me was: 
+ * passing inline function expression to function
+ * such an array declaration: `let array = new Array(vol_1, vol_2, vol_3, vol_4, vol_5)`. How does it differ from `let array = [vol_1, vol_2, vol_3, vol_4, vol_5]` ?? unclear
+ * Naming Conventions: the first letter of the key cannot be a digit and spaces and hyphens cannot be used for dot naming
+
+![Screenshoot "Flexbox froggy - complited"](/task_js_basics/intro_js_udacity.png "Flexbox froggy - complited")
