@@ -151,4 +151,19 @@ It was helpful for me to update my basic knowledge of JS.
  * such an array declaration: `let array = new Array(vol_1, vol_2, vol_3, vol_4, vol_5)`. How does it differ from `let array = [vol_1, vol_2, vol_3, vol_4, vol_5]` ?? unclear
  * Naming Conventions: the first letter of the key cannot be a digit and spaces and hyphens cannot be used for dot naming
 
-![Screenshoot "Flexbox froggy - complited"](/task_js_basics/intro_js_udacity.png "Flexbox froggy - complited")
+![Screenshoot "Intro JS from udacity - complited"](/task_js_basics/intro_js_udacity.png "Intro JS from udacity - complited")
+### JS Algorithms and Data Structures 
+ new to me was: 
+ * create objects with `constructor`
+ * Control Access to an ObjectPassed with `get` and `set`
+ * promise: `const PromiseName = new Promise((resolve, reject) => {
+   ...
+  };
+  PromiseName.them(result => {
+    ...
+  })
+  PromiseName>.catch(error => {
+    ...
+  })` 
+  ![Screenshoot "JS Algorithms and Data Structures - complited"](/task_js_basics/free_code_camp_js.png "JS Algorithms and Data Structures - complited")
+   
