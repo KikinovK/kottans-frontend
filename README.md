@@ -12,6 +12,7 @@
 4. [Responsive Web Design](#html_css_responsive)
 5. [HTML & CSS practice](#HTML_and_CSS_practice)
 6. [JavaScript_Basics](#JavaScript_Basics)
+7. [Java Script DOM](#JS_DOM)
  ***
  
 ## <a name="Git_and_GitHub">Git and GitHub</a>
@@ -166,4 +167,52 @@ It was helpful for me to update my basic knowledge of JS.
     ...
   })` 
   ![Screenshoot "JS Algorithms and Data Structures - complited"](/task_js_basics/free_code_camp_js.png "JS Algorithms and Data Structures - complited")
-   
+
+  ***
+## <a name="JS_DOM">JavaScript DOM</a>
+
+### JS and the DOM
+
+   new to me was: 
+   * `.querySelector()`
+   * `.querySelectorAll()`
+   * `.innerHTML()` 
+   * `.outerHTML()`
+   * `.textContent()`
+   * `.innerText()`
+   * `.createElement()`
+   * `.appendChild()`
+   * `.createTextNode()`
+   * `.insertAdjacentHTML(argument , 'HTML')`
+      * arguments:
+        * `beforebegin`
+        * `afterbegin`
+        * `beforeend`
+        * `afterend`
+  * `.removeChild()`
+  * `.remove()`
+  * `.firstChild`
+  * `.firstElementChild`
+  * `.parentElement`
+***
+  * `.style.<property> = 'change'`
+  * `.style.cssText = 'CSS'`
+  * `.setAttribute('nameAtr', 'valueAtr)`
+  * `.className` - string
+  * `.classList` - DOMTokenList
+    * `.add('nameClass')`
+    * `.remove('nameClass')`
+    * `.toggle('nameClass' [, Boolean: true-add, false-remove ])`
+    * `.contains('nameClass')`
+    * `.item(numberElement)`
+***
+  * `<event-target>.addEventListener(<event-to-listen-for>, <function-to-run-when-an-event-happens>[, Boolean: true - during the capturing phase, false - during the bubbling phase - default]);`
+  * `<event-target>.removeEventListener(<event-to-listen-for>, <function-to-remove>);`
+  * `.dispatchEvent()`
+  * event `DOMContentLoaded` 
+***
+  * `performance.now()` - it starts measuring from the time the page loaded
+  * `.createDocumentFragment()`
+***
+  * `setTimeout(function, number: milliseconds)`
+  ![Screenshoot "JS and DOM (udacity.com) - complited"](/task_js_dom/JS_and_DOM_udacity.png "JS and DOM (udacity.com) - complited")
