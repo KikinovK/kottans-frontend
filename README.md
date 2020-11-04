@@ -215,4 +215,4 @@ It was helpful for me to update my basic knowledge of JS.
   * `.createDocumentFragment()`
 ***
   * `setTimeout(function, number: milliseconds)`
-  ![Screenshoot "JS and DOM (udacity.com) - complited"](/task_js_dom/JS_and_DOM_udacity.png "JS and DOM (udacity.com) - complited")
+  ![Screenshoot "JS and the DOM (udacity.com) - complited"](/task_js_dom/JS_and_DOM_udacity.png "JS and the DOM (udacity.com) - complited")
