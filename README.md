@@ -216,3 +216,5 @@ It was helpful for me to update my basic knowledge of JS.
 ***
   * `setTimeout(function, number: milliseconds)`
   ![Screenshoot "JS and the DOM (udacity.com) - complited"](/task_js_dom/JS_and_DOM_udacity.png "JS and the DOM (udacity.com) - complited")
+  ### freecodecamp Algorithm Scripting Challenges
+  ![Screenshoot "JS and the DOM (udacity.com) - complited"](/task_js_dom/freecodecamp_Algoritm_Scripting_Challenges.png "JS and the DOM (udacity.com) - complited")
