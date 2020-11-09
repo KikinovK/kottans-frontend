@@ -13,7 +13,8 @@
 5. [HTML & CSS practice](#HTML_and_CSS_practice)
 6. [JavaScript_Basics](#JavaScript_Basics)
 7. [Java Script DOM](#JS_DOM)
- ***
+### Advanced Topics
+8. [Building a Tiny JS World (pre-OOP) ](#Tiny_JS_World) 
  
 ## <a name="Git_and_GitHub">Git and GitHub</a>
 
@@ -222,4 +223,6 @@ It was helpful for me to update my basic knowledge of JS.
   
 [Demo](https://kikinovk.github.io/frontend-2021-homeworks/submissions/kikinovk/JS_DOM_API/) |
 [Code base](https://github.com/KikinovK/frontend-2021-homeworks/tree/dom-api-task/submissions/kikinovk/JS_DOM_API)
-   ***
+ ***
+## <a name="Tiny_JS_World">Building a Tiny JS World</a>
+[Demo](https://kikinovk.github.io/a-tiny-JS-world/) | [Code base](https://github.com/KikinovK/frontend-2021-homeworks/tree/tiny-js-world-task/submissions/kikinovk/Tiny%20JS%20World)
