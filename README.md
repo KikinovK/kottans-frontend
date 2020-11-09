@@ -218,3 +218,8 @@ It was helpful for me to update my basic knowledge of JS.
   ![Screenshoot "JS and the DOM (udacity.com) - complited"](/task_js_dom/JS_and_DOM_udacity.png "JS and the DOM (udacity.com) - complited")
   ### freecodecamp Algorithm Scripting Challenges
   ![Screenshoot "JS and the DOM (udacity.com) - complited"](/task_js_dom/freecodecamp_Algoritm_Scripting_Challenges.png "JS and the DOM (udacity.com) - complited")
+  ### JS and DOM API practical
+  
+[Demo](https://kikinovk.github.io/frontend-2021-homeworks/submissions/kikinovk/JS_DOM_API/) |
+[Code base](https://github.com/KikinovK/frontend-2021-homeworks/tree/dom-api-task/submissions/kikinovk/JS_DOM_API)
+   ***
