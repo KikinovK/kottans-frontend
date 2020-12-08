@@ -14,8 +14,9 @@
 6. [JavaScript_Basics](#JavaScript_Basics)
 7. [Java Script DOM](#JS_DOM)
 ### Advanced Topics
-8. [Building a Tiny JS World (pre-OOP) ](#Tiny_JS_World) 
- 
+8. [Building a Tiny JS World (pre-OOP) ](#Tiny_JS_World)
+9. [Object Oriented JavaScript](#Object_Oriented_JavaScript) 
+
 ## <a name="Git_and_GitHub">Git and GitHub</a>
 
 ### Version control with Git
@@ -226,3 +227,31 @@ It was helpful for me to update my basic knowledge of JS.
  ***
 ## <a name="Tiny_JS_World">Building a Tiny JS World</a>
 [Demo](https://kikinovk.github.io/a-tiny-JS-world/) | [Code base](https://github.com/KikinovK/frontend-2021-homeworks/tree/tiny-js-world-task/submissions/kikinovk/Tiny%20JS%20World)
+***
+## <a name="Object_Oriented_JavaScript">Object-Oriented JavaScript</a>
+### Object-Oriented JavaScript(udacity)
+![Screenshoot "Object-Oriented JavaScript (udacity.com) - complited"](/task_js_oop/Object_Oriented_JavaScript_Udacity.png "JS and the DOM (udacity.com) - complited")
+
+### Object-Oriented JavaScript(udacity)
+![Screenshoot "Object-Oriented JavaScript (udacity.com) - complited"](/task_js_oop/Object_Oriented_JavaScript_Udacity_2.png "JS and the DOM (udacity.com) - complited")
+
+new to me was: 
+* `.call(thisArg[, arg1[, arg2[, ...]]])`
+* `.apply(thisArg, [argsArray])`
+* `.bind(thisArg[, arg1[, arg2[, ...]]])`
+* `.hasOwnProperty(prop)`
+* `.isPrototypeOf(object)`
+* `Object.getPrototypeOf(obj)`
+* `.constructor `
+* `Object.create(proto[, propertiesObject])`
+* `Object.assign(target, ...sources)`
+### Frogger-game
+[demo](https://kikinovk.github.io/frontend-nanodegree-arcade-game/) | [code](https://github.com/KikinovK/frontend-2021-homeworks/tree/object_oriented_js_task/submissions/kikinovk/frogger-game)
+
+
+### COREWARS
+
+[My codewars profile ](https://www.codewars.com/)
+
+ ![Screenshoot "My codewars profile"](/task_js_oop/code_wars_7_kyu.png "My codewars profile")
+
