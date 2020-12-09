@@ -15,17 +15,18 @@
 7. [Java Script DOM](#JS_DOM)
 ### Advanced Topics
 8. [Building a Tiny JS World (pre-OOP) ](#Tiny_JS_World)
-9. [Object Oriented JavaScript](#Object_Oriented_JavaScript) 
+9. [Object Oriented JavaScript](#Object_Oriented_JavaScript)
+10. [OOP exercise](#OOP_exercise)
 
 ## <a name="Git_and_GitHub">Git and GitHub</a>
 
 ### Version control with Git
 Learned an useful things:
 
-* connect the code editor to git, it became convenient to describe commits, name tags `git config --global core.editor "code --wait"` 
+* connect the code editor to git, it became convenient to describe commits, name tags `git config --global core.editor "code --wait"`
 * viewing the list of commits and its branches:
   * `git log`
-    * press `q` to quit 
+    * press `q` to quit
   * `git log --oneline`
   * `git log --stat`
   * `git log -p`
@@ -47,15 +48,15 @@ was improved understanding:
 
 ![Screenshoot "Learn Git branching - complited"](/task-git-intro/learn_git_branching_base.png "Learn Git branching - complited")
 ![Screenshoot "Learn Git branching  remote - complited"](/task-git-intro/learn_git_branching_remote.png "Learn Git branching remote - complited")
-***               
+***
 ## <a name="Linux_Command_Line_HTTP_Tools">Linux, Command Line, HTTP</a>
 ### Linux survival
 #### Command_Line
 * `ls` - list the contents of a directory
-  * `ls -l` - long list 
+  * `ls -l` - long list
 * `cd` - change directory
 * `pwd` - print working directory
-* `mkdir` - create directory 
+* `mkdir` - create directory
 * `cp` - copy file
 * `mv` - move and rename file
 * `rm` - remove file
@@ -75,13 +76,13 @@ Did not saw command `touch`(create file) in the course
 ![http url structure](/task-linux-cli/http1-url-structure.png "http url structure")
 
 * GET: fetch an existing resource.
-* POST: create a new resource. 
+* POST: create a new resource.
 * PUT: update an existing resource.
 * DELETE: delete an existing resource.
 
 ## <a name="GitHub_and_collaboration">GitHub Collaboration</a>
 ### GitHub & Collaboration
-Learned to create remote repositories 
+Learned to create remote repositories
 
 tutorial example [https://github.com/KikinovK/my-travel-plans](https://github.com/KikinovK/my-travel-plans)
 used commands like this
@@ -92,7 +93,7 @@ used commands like this
 * `git pull <shortname> <branch>` to retrisve and automatically merge updates
 * `git fetch <shortname> <branch>` to retrisve updates
 
-* `git shortlog` 
+* `git shortlog`
 * `git shortlog -s -n`
 * `git log --author=<name author>`
 * `git log --grep=<filter>`
@@ -149,14 +150,14 @@ what was new to me:
 ## <a name="JavaScript_Basics">JavaScript Basics</a>
 ### Intro to JS
 It was helpful for me to update my basic knowledge of JS.
- new to me was: 
+ new to me was:
  * passing inline function expression to function
  * such an array declaration: `let array = new Array(vol_1, vol_2, vol_3, vol_4, vol_5)`. How does it differ from `let array = [vol_1, vol_2, vol_3, vol_4, vol_5]` ?? unclear
  * Naming Conventions: the first letter of the key cannot be a digit and spaces and hyphens cannot be used for dot naming
 
 ![Screenshoot "Intro JS from udacity - complited"](/task_js_basics/intro_js_udacity.png "Intro JS from udacity - complited")
-### JS Algorithms and Data Structures 
- new to me was: 
+### JS Algorithms and Data Structures
+ new to me was:
  * create objects with `constructor`
  * Control Access to an ObjectPassed with `get` and `set`
  * promise: `const PromiseName = new Promise((resolve, reject) => {
@@ -167,7 +168,7 @@ It was helpful for me to update my basic knowledge of JS.
   })
   PromiseName>.catch(error => {
     ...
-  })` 
+  })`
   ![Screenshoot "JS Algorithms and Data Structures - complited"](/task_js_basics/free_code_camp_js.png "JS Algorithms and Data Structures - complited")
 
   ***
@@ -175,10 +176,10 @@ It was helpful for me to update my basic knowledge of JS.
 
 ### JS and the DOM
 
-   new to me was: 
+   new to me was:
    * `.querySelector()`
    * `.querySelectorAll()`
-   * `.innerHTML()` 
+   * `.innerHTML()`
    * `.outerHTML()`
    * `.textContent()`
    * `.innerText()`
@@ -211,7 +212,7 @@ It was helpful for me to update my basic knowledge of JS.
   * `<event-target>.addEventListener(<event-to-listen-for>, <function-to-run-when-an-event-happens>[, Boolean: true - during the capturing phase, false - during the bubbling phase - default]);`
   * `<event-target>.removeEventListener(<event-to-listen-for>, <function-to-remove>);`
   * `.dispatchEvent()`
-  * event `DOMContentLoaded` 
+  * event `DOMContentLoaded`
 ***
   * `performance.now()` - it starts measuring from the time the page loaded
   * `.createDocumentFragment()`
@@ -221,7 +222,7 @@ It was helpful for me to update my basic knowledge of JS.
   ### freecodecamp Algorithm Scripting Challenges
   ![Screenshoot "JS and the DOM (udacity.com) - complited"](/task_js_dom/freecodecamp_Algoritm_Scripting_Challenges.png "JS and the DOM (udacity.com) - complited")
   ### JS and DOM API practical
-  
+
 [Demo](https://kikinovk.github.io/frontend-2021-homeworks/submissions/kikinovk/JS_DOM_API/) |
 [Code base](https://github.com/KikinovK/frontend-2021-homeworks/tree/dom-api-task/submissions/kikinovk/JS_DOM_API)
  ***
@@ -235,7 +236,7 @@ It was helpful for me to update my basic knowledge of JS.
 ### Object-Oriented JavaScript(udacity)
 ![Screenshoot "Object-Oriented JavaScript (udacity.com) - complited"](/task_js_oop/Object_Oriented_JavaScript_Udacity_2.png "JS and the DOM (udacity.com) - complited")
 
-new to me was: 
+new to me was:
 * `.call(thisArg[, arg1[, arg2[, ...]]])`
 * `.apply(thisArg, [argsArray])`
 * `.bind(thisArg[, arg1[, arg2[, ...]]])`
@@ -255,3 +256,6 @@ new to me was:
 
  ![Screenshoot "My codewars profile"](/task_js_oop/code_wars_7_kyu.png "My codewars profile")
 
+## <a name="OOP_exercise">OOP exercise</a>
+[Demo](https://kikinovk.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/KikinovK/frontend-2021-homeworks/tree/post-oop-task/submissions/kikinovk/OOP_exercise)
