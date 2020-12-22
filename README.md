@@ -79,6 +79,8 @@ Did not saw command `touch`(create file) in the course
 * POST: create a new resource.
 * PUT: update an existing resource.
 * DELETE: delete an existing resource.
+###### [return menu](#General)
+***
 
 ## <a name="GitHub_and_collaboration">GitHub Collaboration</a>
 ### GitHub & Collaboration
@@ -111,6 +113,7 @@ _fork_ a remote repo in GitHub -> local `git clone <name forked repo>`-> `git ch
 ![Screenshoot "Learn Git branching  main - complited"](/task-git-collaboration/learn_git_branching_base.png "Learn Git branching main - complited")
 
 ![Screenshoot "Learn Git branching  remote - complited"](/task-git-collaboration/learn_git_branching_remote.png "Learn Git branching remote - complited")
+###### [return menu](#General)
 ***
 ## <a name="Intro_to_HTML_and_CSS">Intro to HTML and CSS</a>
 I am already somewhat familiar with HTML and CSS
@@ -126,7 +129,7 @@ Discovered new properties
 `word-spacing`,`letter-spacing`.
 _CSS Grid_ was interesting to study, I want to use it in future projects.
 ![Screenshoot "Learn CSS(codecademy.com) - complited"](/task_html_css_intro/Learn_СSS_complete.png "Learn CSS(codecademy.com) - complited")
-
+###### [return menu](#General)
 ***
 ## <a name="html_css_responsive">Responsive Web Design</a>
 ### Responsive Web Design Fundamentals
@@ -145,7 +148,7 @@ what was new to me:
 
 [Demo](https://kikinovk.github.io/frontend-2021-homeworks/submissions/kikinovk/HTML_CSS_Popup/) |
 [Code base](https://github.com/KikinovK/frontend-2021-homeworks/tree/html-css-popup-task/submissions/kikinovk/HTML_CSS_Popup)
-
+###### [return menu](#General)
 ***
 ## <a name="JavaScript_Basics">JavaScript Basics</a>
 ### Intro to JS
@@ -170,7 +173,7 @@ It was helpful for me to update my basic knowledge of JS.
     ...
   })`
   ![Screenshoot "JS Algorithms and Data Structures - complited"](/task_js_basics/free_code_camp_js.png "JS Algorithms and Data Structures - complited")
-
+###### [return menu](#General)
   ***
 ## <a name="JS_DOM">JavaScript DOM</a>
 
@@ -213,21 +216,24 @@ It was helpful for me to update my basic knowledge of JS.
   * `<event-target>.removeEventListener(<event-to-listen-for>, <function-to-remove>);`
   * `.dispatchEvent()`
   * event `DOMContentLoaded`
-***
   * `performance.now()` - it starts measuring from the time the page loaded
   * `.createDocumentFragment()`
-***
   * `setTimeout(function, number: milliseconds)`
+  ***
   ![Screenshoot "JS and the DOM (udacity.com) - complited"](/task_js_dom/JS_and_DOM_udacity.png "JS and the DOM (udacity.com) - complited")
   ### freecodecamp Algorithm Scripting Challenges
   ![Screenshoot "JS and the DOM (udacity.com) - complited"](/task_js_dom/freecodecamp_Algoritm_Scripting_Challenges.png "JS and the DOM (udacity.com) - complited")
+  ###### [return menu](#General)
+  ***
   ### JS and DOM API practical
 
 [Demo](https://kikinovk.github.io/frontend-2021-homeworks/submissions/kikinovk/JS_DOM_API/) |
 [Code base](https://github.com/KikinovK/frontend-2021-homeworks/tree/dom-api-task/submissions/kikinovk/JS_DOM_API)
+###### [return menu](#General)
  ***
 ## <a name="Tiny_JS_World">Building a Tiny JS World</a>
 [Demo](https://kikinovk.github.io/a-tiny-JS-world/) | [Code base](https://github.com/KikinovK/frontend-2021-homeworks/tree/tiny-js-world-task/submissions/kikinovk/Tiny%20JS%20World)
+###### [return menu](#General)
 ***
 ## <a name="Object_Oriented_JavaScript">Object-Oriented JavaScript</a>
 ### Object-Oriented JavaScript(udacity)
@@ -256,6 +262,12 @@ new to me was:
 
  ![Screenshoot "My codewars profile"](/task_js_oop/code_wars_7_kyu.png "My codewars profile")
 
+ ###### [return menu](#General)
+ ***
+
 ## <a name="OOP_exercise">OOP exercise</a>
 [Demo](https://kikinovk.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/KikinovK/frontend-2021-homeworks/tree/post-oop-task/submissions/kikinovk/OOP_exercise)
+
+###### [return menu](#General)
+***
